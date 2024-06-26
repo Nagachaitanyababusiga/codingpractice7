@@ -1,0 +1,1 @@
+select * from player_match_score;
